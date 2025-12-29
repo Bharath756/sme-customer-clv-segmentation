@@ -42,3 +42,12 @@ The project follows an end-to-end customer analytics workflow:
 - Flagged low-value segments for cost-aware engagement decisions
 
 The final output supports data-driven prioritization of retention, pricing, and customer investment strategies.
+
+## Tools & Techniques
+Python, Pandas, Scikit-learn, KMeans Clustering, Jupyter Notebook
+
+## Repository Structure
+- notebooks/ — CLV feature engineering, segmentation, and strategy
+- data/ — Raw input dataset
+- README.md — Project overview and outcomes
+
